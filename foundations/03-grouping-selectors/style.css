@@ -1,0 +1,13 @@
+.reverse,
+.colored {
+  font-size: 28px;
+  font-family: Helvetica 'Times New Roman' sans-serif;
+}
+.reverse {
+  color: white;
+  background-color: black;
+  font-weight: bold;
+}
+.colored {
+  background-color: rgb(255, 255, 0);
+}
